@@ -1,0 +1,28 @@
+name: Dear Future Megan
+favicon: null
+layout_spectrum: 0.10492871655151248
+typography_spectrum: 0.7714088519569486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5165570904500782
+  lightness: 0.7130451793782413
+  saturation: 0.3112404658459127
+  rhythmicContrast: 0.7365454179234803
+purpose: []
